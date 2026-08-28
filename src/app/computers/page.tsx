@@ -35,7 +35,7 @@ const DUMMY_COMPUTERS: Computer[] = [
   {
     id: '4',
     name: 'Custom Gaming PC',
-    price: 2500,
+    price: 25000,
     imageUrl: '/ga.jpg',
     description: 'High-end components for ultimate gaming.',
   },
